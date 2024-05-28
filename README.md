@@ -1,16 +1,28 @@
-# divine_deities
+# Divine Vision Mobile Application
 
-A new Flutter project.
+Divine Vision Mobile Application is the user level interface for usage of our machine learning model that is made to identify and generate a caption according to the image passed of the Indian God and Goddess.
+The server-side is handled using Flask.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This application allows users to upload images of Indian gods and goddesses, and it generates descriptive captions for the uploaded images. The backend Flask server hosts the machine learning model responsible for generating captions based on the input images.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Upload images of Indian gods and goddesses.
+- Generate descriptive captions for the uploaded images.
+- View the generated captions alongside the uploaded images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+This project uses the following technologies and frameworks:
+
+- Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- https: A package for creating api calls to establish a communication medium b/w backend and frontend.
+
+## Screenshots
+
+![Screenshot](screenshots/screenshot.png)
+
+## Contributing
+
+Contributions to this project are welcome! If you'd like to contribute, please follow the usual GitHub flow: fork the repository, make your changes, and submit a pull request.
