@@ -21,7 +21,10 @@ This project uses the following technologies and frameworks:
 
 ## Screenshots
 
-![Screenshot](screenshots/screenshot.png)
+<img src='https://github.com/Kaizoku01/Divine-Vision-Mobile-Application/assets/90988390/0b659d5c-2561-40e1-bd9d-928ed7041b22' height=500 width=250>
+<img src='https://github.com/Kaizoku01/Divine-Vision-Mobile-Application/assets/90988390/1eeebb2c-a650-46a6-8c48-fa7eea0e6bb4' height=500 width=250>
+<img src='https://github.com/Kaizoku01/Divine-Vision-Mobile-Application/assets/90988390/820e3de9-ece6-4cee-a85c-4edb2b145b75' height=500 width=250>
+
 
 ## Contributing
 
